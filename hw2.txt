@@ -1,0 +1,4 @@
+1. FileReader nomli iteratsiya classini yarating.
+class orqali descriptions papakasidagi fayllardan ma'lumot oqib oling.
+2. Olingan malumotlarni | name | price | desctiption | -> ustunlari bor csv ga yuklang
+3. Loyihangizni githubga yuklang
